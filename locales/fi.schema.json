@@ -1532,6 +1532,12 @@
             },
             "text": {
               "label": "Kuvaus"
+            },
+            "link_label": {
+              "label": "Linkin teksti"
+            },
+            "link": {
+              "label": "Linkki"
             }
           }
         }

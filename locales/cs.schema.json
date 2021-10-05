@@ -1532,6 +1532,12 @@
             },
             "text": {
               "label": "Popis"
+            },
+            "link_label": {
+              "label": "Text odkazu"
+            },
+            "link": {
+              "label": "Odkaz"
             }
           }
         }
