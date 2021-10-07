@@ -1531,6 +1531,12 @@
             },
             "text": {
               "label": "説明"
+            },
+            "link_label": {
+              "label": "リンクラベル"
+            },
+            "link": {
+              "label": "リンク"
             }
           },
           "name": "列"
