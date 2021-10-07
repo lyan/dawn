@@ -1531,6 +1531,12 @@
             },
             "text": {
               "label": "Descrição"
+            },
+            "link_label": {
+              "label": "Etiqueta de ligação"
+            },
+            "link": {
+              "label": "Ligação"
             }
           },
           "name": "Coluna"
