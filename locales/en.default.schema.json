@@ -1785,7 +1785,7 @@
           "label": "Adapt banner height to image"
         },
         "image_height": {
-          "label": "Image banner height",
+          "label": "Banner height",
           "options__1": {
             "label": "Small"
           },
