@@ -53,6 +53,13 @@
               "menu": "footer"
             }
           },
+          "ac2b8e4c-762f-4c21-8ea1-174745bb876d": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Help Center",
+              "menu": "footer"
+            }
+          },
           "footer-1": {
             "type": "text",
             "settings": {
@@ -63,6 +70,7 @@
         },
         "block_order": [
           "footer-0",
+          "ac2b8e4c-762f-4c21-8ea1-174745bb876d",
           "footer-1"
         ],
         "settings": {
