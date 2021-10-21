@@ -16,9 +16,9 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "Welcome to our store",
-              "color_scheme": "background-1",
-              "link": ""
+              "text": "Free delivery on orders above $69 (USPS only)  | buy one get one free + extra 15% off lenses",
+              "color_scheme": "inverse",
+              "link": "https:\/\/www.zinff.com\/buy-one-get-one-free\/?utm_source=shopify&utm_medium=topbar"
             }
           }
         },
