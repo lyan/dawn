@@ -1,17 +1,18 @@
 {
   "current": {
-    "colors_solid_button_labels": "#FFFFFF",
+    "colors_solid_button_labels": "#ffffff",
     "colors_accent_1": "#efd391",
-    "colors_accent_2": "#334FB4",
+    "colors_accent_2": "#334fb4",
     "colors_text": "#121212",
     "colors_outline_button_labels": "#efd391",
-    "colors_background_1": "#FFFFFF",
-    "colors_background_2": "#F3F3F3",
+    "colors_background_1": "#ffffff",
+    "colors_background_2": "#f3f3f3",
     "type_header_font": "assistant_n4",
     "type_body_font": "assistant_n4",
     "social_facebook_link": "https:\/\/www.facebook.com\/zinffglasses",
     "social_instagram_link": "https:\/\/www.instagram.com\/zinff.optical\/",
     "social_tiktok_link": "https:\/\/www.tiktok.com\/@zinff_optical",
+    "favicon": "shopify:\/\/shop_images\/favicon_32x32_760e1498-6cc2-4b08-8334-5efe5f7613e6.png",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
