@@ -46,21 +46,21 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "Your Eyewear We Prepare",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p><br\/>Eyewear not only helps us to see the world clearly but also enables us to show our personalities.<br\/>Zinff offers up to 300 high-quality prescription eyeglasses and sunglasses for you to choose from.<br\/>You can easily get your favorite pairs at Zinff.<\/p>"
           }
         },
         "button": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Shop All",
+            "button_link": "https:\/\/www.zinff.com\/eyeglasses\/?utm_source=shopify&utm_medium=eyeglasses2",
             "button_style_secondary": false
           }
         }
