@@ -1129,6 +1129,12 @@ summary::-webkit-details-marker {
   object-position: center center;
   transition: opacity 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
 }
+.card__inner .media > img{
+  align-items: center;
+  height: auto !important;
+  margin: auto;top:0;left:0;right: 0;bottom: 0;
+}
+
 
 .media--square {
   padding-bottom: 100%;
